@@ -1,4 +1,6 @@
 # study_app
+# This readme file automatically create by flutter
+
 
 A new Flutter project.
 
