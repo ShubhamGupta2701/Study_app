@@ -28,7 +28,7 @@ class AppIntroductionScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 20),
                   const Text(
-                    'This is a study app. You can use it for learning purpose. This app is made by Rekha ( 16633 ), this is my final year project of Msc - IT from Punjabi University',
+                    'This is a study app. You can use it for learning purpose. This app is made by Saurabh Mishra, this is my final year project of MCA from Thapar Institute of Engineering and Technology',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         fontSize: 18,
