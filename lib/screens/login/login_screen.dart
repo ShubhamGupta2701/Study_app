@@ -30,7 +30,7 @@ class LoginScreen extends GetView<AuthController> {
             const Padding(
               padding: EdgeInsets.symmetric(vertical: 40),
               child: Text(
-                "This is a study app developed by me - `Sarubah Msihra` from TIET (Thapar Institute of Engineering and Technology) You can use as you want. You have the full access to all the materials in this course.",
+                "This is a study app. You can use as you want. You have the full access to all the materials in this course.",
                 style: TextStyle(
                     color: onSurfaceTextColor, fontWeight: FontWeight.bold),
                 textAlign: TextAlign.center,
