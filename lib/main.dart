@@ -13,11 +13,11 @@ void main() async {
   InitialBindings().dependencies();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);// initialize firebase to our application on current platform 
   await GetStorage.init();
-  runApp(RiyaApp());
+  runApp(MyApp());
 }
 
-class RiyaApp extends StatelessWidget {
-  const RiyaApp({Key? key}) : super(key: key);
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -300,10 +300,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_zoom_drawer
-      sha256: "5a3708548868463fb36e0e3171761ab7cb513df88d2f14053802812d2e855060"
+      sha256: "93c4f2cfe1edfe2f9e48b94a7f9538520d2f2593e202b8e89c394b7d27137a8e"
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.0"
+    version: "3.0.3"
   get:
     dependency: "direct dev"
     description:

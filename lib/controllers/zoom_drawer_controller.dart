@@ -1,3 +1,4 @@
+import 'package:flutter_zoom_drawer/config.dart';
 import 'package:flutter_zoom_drawer/flutter_zoom_drawer.dart';
 import 'package:study_app/controllers/auth_controller.dart';
 // import 'package:study_app/controllers/theme_controller.dart';
